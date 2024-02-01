@@ -1,0 +1,14 @@
+{
+  "name": "linting",
+  "version": "1.0.0",
+  "description": "Lab 7 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khactpc07495",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
